@@ -5,7 +5,8 @@
     background: rgba(241, 241, 241, 0.69);
     place-self: center;
     position: relative;
-    box-shadow: 5px 4px 5px rgb(146, 141, 141);
+    box-shadow:inset 0px 0px 30px rgba(146, 141, 141),0px 0px 30px rgba(146, 141, 141);
+   
 }
 
 body{
